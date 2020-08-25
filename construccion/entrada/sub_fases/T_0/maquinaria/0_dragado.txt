@@ -1,0 +1,3 @@
+maquinaria
+Dragado_med_hidra,"{'draga_Volvox_Iberia_succion_marcha': {'num': 1, 'rend_unit': 306, 't_arranque': 10, 'h_lab_dia': 24, 'dia_lab_sem': 6,'coste_maq_unit': 700, 'coste_mano_obra_unit': 700, 'coste_add_unit': 200, 'umb_operatividad': {'hs': 2.5, 'vv': 100, 'nivel': 100, 'calado': 5}}}"
+

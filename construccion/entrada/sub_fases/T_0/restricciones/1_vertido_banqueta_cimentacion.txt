@@ -1,0 +1,2 @@
+restriccion,subfases
+1_vertido_banqueta_cimentacion,1,"{'0': 50}"

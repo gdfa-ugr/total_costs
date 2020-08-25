@@ -1,0 +1,2 @@
+vol_subfase,n_horas_protecc_fijas_o_var,n_horas_protecc_fijas,n_horas_protecc_metro,n_horas_protecc_max,umb_protecc,decision_proteger,proteccion_por_subfases_siguientes,subfase_protectora,rend_uds_obra
+4_vertido_manto_principal,47500,variable,,0.63,72,"{'hs': {'dur': 1, 'valor': 3}, 'vv': {'dur': 2, 'valor': 50}}",1,0,,min

@@ -1,0 +1,2 @@
+opciones_de_destruccion_total
+T_0,op1,"['SS_0']"

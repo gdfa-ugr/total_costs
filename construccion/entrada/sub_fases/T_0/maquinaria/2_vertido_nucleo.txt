@@ -1,0 +1,4 @@
+maquinaria
+vertido_mediante_ganguil,"{'ganguil': {'num': 1, 'rend_unit': 136, 't_arranque': 0, 'h_lab_dia': 12, 'dia_lab_sem': 6, 'coste_maq_unit': 230, 'coste_mano_obra_unit': 230, 'coste_add_unit': 150, 'umb_operatividad': {'hs': 2, 'vv': 100, 'nivel': 100, 'calado': 3.5}}}"
+recolocacion_retroexcavadora,"{'retroexcavadora': {'num': 2, 'rend_unit': 110, 't_arranque': 0, 'h_lab_dia': 12, 'dia_lab_sem': 6, 'coste_maq_unit': 50, 'coste_mano_obra_unit': 50, 'coste_add_unit': 100, 'umb_operatividad': {'hs': 100, 'vv': 100, 'nivel': 100, 'calado': 0}}}"
+

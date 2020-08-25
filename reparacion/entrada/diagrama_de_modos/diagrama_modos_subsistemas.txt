@@ -1,0 +1,4 @@
+opciones_de_destruccion_total
+T_0,SS_0,op1,"['MF_2']"
+T_0,SS_0,op2,"['MF_3']"
+

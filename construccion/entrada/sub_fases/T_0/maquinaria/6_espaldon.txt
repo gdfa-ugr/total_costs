@@ -1,0 +1,3 @@
+maquinaria
+vertido_hormigon,"{'maquinaria_especial': {'num': 1, 'rend_unit': 120, 't_arranque': 48, 'h_lab_dia': 12, 'dia_lab_sem': 6, 'coste_maq_unit': 150, 'coste_mano_obra_unit': 150, 'coste_add_unit': 150, 'umb_operatividad': {'hs': 100, 'vv': 100, 'nivel': 100, 'calado': 0}}}"
+

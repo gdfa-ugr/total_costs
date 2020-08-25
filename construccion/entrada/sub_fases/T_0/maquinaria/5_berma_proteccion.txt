@@ -1,0 +1,3 @@
+maquinaria
+vertido_mediante_ganguil,"{'ganguil': {'num': 1, 'rend_unit': 145, 't_arranque': 0, 'h_lab_dia': 12, 'dia_lab_sem': 6, 'coste_maq_unit': 350, 'coste_mano_obra_unit': 350, 'coste_add_unit': 150, 'umb_operatividad': {'hs': 2, 'vv': 100, 'nivel': 100, 'calado': 3.5}}}"
+

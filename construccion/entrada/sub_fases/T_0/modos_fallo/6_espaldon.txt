@@ -1,0 +1,2 @@
+modo_fallo_ppal,agente,ecuacion_danno,x_0,x_max,d_0,d_max,archivo_dannos,ecuacion_coste,c_min,c_max,archivo_costes
+-,hs,lineal,10,10,0,0,,lineal,0,0,

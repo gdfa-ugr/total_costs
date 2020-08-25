@@ -1,0 +1,4 @@
+tramo,subsistema,modo_fallo
+T_0,SS_0,MF_1
+T_0,SS_0,MF_2
+T_0,SS_0,MF_3

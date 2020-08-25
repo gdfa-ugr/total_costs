@@ -1,0 +1,2 @@
+costes_materiales_unit,coste_mantenimiento,coste_proteccion,costes_indirectos
+8, 0, 100, 0.1

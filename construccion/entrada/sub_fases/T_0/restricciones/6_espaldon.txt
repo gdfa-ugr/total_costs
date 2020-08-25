@@ -1,0 +1,2 @@
+restriccion,subfases
+6_espaldon,1,"{'5': 50}"

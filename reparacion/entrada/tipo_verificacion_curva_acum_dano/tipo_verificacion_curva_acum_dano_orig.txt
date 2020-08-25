@@ -1,0 +1,2 @@
+tipo_diseno,par_a,par_b,par_c
+T_0,SS_0,MF_3,els,1.3419,1.7588,3.3861

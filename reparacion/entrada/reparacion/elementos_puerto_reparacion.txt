@@ -1,0 +1,3 @@
+maquinaria_disponible,materiales_disponibles,mano_obra_disponible
+
+"{'camion': {'num': 0, 'coste_maq': 0}, 'ganguil': {'num': 0, 'coste_maq': 0}}","{'todo_uno_cantera': {'cant': 0, 'coste_mat': 0}}","{'operarios': {'num': 0, 'coste_mo': 0}}"

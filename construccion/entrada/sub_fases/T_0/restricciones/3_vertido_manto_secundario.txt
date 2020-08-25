@@ -1,0 +1,2 @@
+restriccion,subfases
+3_vertido_manto_secundario,1,"{'2': 50}"

@@ -1,0 +1,7 @@
+longitud,vida_util,calado
+
+T_0,516,24.99,15
+
+
+
+

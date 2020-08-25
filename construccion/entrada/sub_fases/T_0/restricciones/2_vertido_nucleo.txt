@@ -1,0 +1,2 @@
+restriccion,subfases
+2_vertido_nucleo,1,"{'1': 50}"
